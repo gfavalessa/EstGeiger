@@ -16,6 +16,7 @@
 # - Thinkspeak Write API Key for the channel
 # - Thinkspeak MQTT API Key for the account
 #
+#   Autor: Gabriel F. Fraga
 
 import network
 from umqtt.robust import MQTTClient

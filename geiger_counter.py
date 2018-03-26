@@ -5,7 +5,7 @@
 #   showing the information in a oled display.
 #
 #   Author: Gabriel F. Fraga
-#   03 Mar 2018
+#   26 Mar 2018
 
 import utime
 import machine
